@@ -1,0 +1,10 @@
+ 
+- copy:
+    src: /etc/ansible/roles/copy-wars/tasks/index.html
+    dest: /var/lib/tomcat7/webapps/ROOT
+    owner: ubuntu
+    group: ubuntu
+    mode: 0644
+
+  notify :
+    - restart tomcat7

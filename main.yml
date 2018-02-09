@@ -1,0 +1,6 @@
+---
+
+- hosts: linux
+  roles:
+    - install-apache
+    - copy-wars
