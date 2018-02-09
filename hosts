@@ -23,7 +23,7 @@
 ## 192.168.1.100
 ## 192.168.1.
 [linux]
-web1 ansible_host=18.218.84.137 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/tej-kp.pem
+web1 ansible_host=18.218.220.108 ansible_user=ubuntu
 
 # If you have multiple hosts following a pattern you can specify
 # them like this:
