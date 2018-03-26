@@ -23,7 +23,7 @@
 ## 192.168.1.100
 ## 192.168.1.ansible_host=10.214.0.110 ansible_user=ubuntu
 [web]
-13.58.71.105
+18.221.41.146
 # If you have multiple hosts following a pattern you can specify
 # them like this:
 
